@@ -13,4 +13,4 @@
 
 ## 📝 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,cs,ts,dotnet,js,react,py,html,css,nodejs,perl,vue,nextjs,tailwind,postgres,prisma,sass,ruby,rails,docker,aws,bootstrap,figma,flask,github,jest,jquery,mysql,redux,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cs,ts,dotnet,js,react,py,html,css,nodejs,perl,vue,nextjs,tailwind,postgres,prisma,sass,docker,aws,bootstrap,figma,flask,github,jest,jquery,mysql,redux,supabase,vercel)](https://skillicons.dev)
