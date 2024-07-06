@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> 👋 Hi, I’m Yuki </h1>
+<h3 align="center"> 💞️ I'm a Full-Stack Developer ready to make my mark on the ever-evolving landscape of the internet. 🌏  </h3>
 
-<!--
-**Yukixx0729/Yukixx0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="border-radius:100%;">
+  <kbd><img src="https://i.ibb.co/K5WMHNc/Screenshot-2024-07-06-at-7-01-09-PM.png" style="height:150px;width:150px;"></kbd>
+</div>
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Yubin Zeng](https://www.linkedin.com/in/yubinzeng/)
+- Email: [witaray08@gmail.com](mailto:witaray08@gmail.com)
+- Protfolio: [Link to Protfolio](https://yukixx0729.github.io/portfoliov2/)
+
+## 📝 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=git,cs,ts,dotnet,js,react,py,html,css,nodejs,perl,vue,nextjs,tailwind,postgres,prisma,sass,ruby,rails,docker,aws,bootstrap,figma,flask,github,jest,jquery,mysql,redux,supabase)](https://skillicons.dev)
