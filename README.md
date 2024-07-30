@@ -9,7 +9,7 @@
 
 - LinkedIn: [Yubin Zeng](https://www.linkedin.com/in/yubinzeng/)
 - Email: [witaray08@gmail.com](mailto:witaray08@gmail.com)
-- Portfolio: [Link to Protfolio](https://yukixx0729.github.io/portfoliov2/)
+- Portfolio: [Link to Portfolio](https://yukixx0729.github.io/portfoliov2/)
 
 ## 📝 Skills
 
