@@ -2,7 +2,7 @@
 <h3 align="center"> 💞️ I'm a Full-Stack Developer ready to make my mark on the ever-evolving landscape of the internet. 🌏  </h3>
 
 <div align="center" style="border-radius:100%;">
-  <kbd><img src="[https://i.postimg.cc/QtVXrP5h/IMG-8181.jpg](https://i.postimg.cc/QtVXrP5h/IMG-8181.jpg)" style="height:150px;width:150px;"></kbd>
+  <kbd><img src="https://i.imghippo.com/files/1ShIQ1722915035.jpg" style="height:150px;width:150px;border-radius:5px"></kbd>
 </div>
 
 ## 📫 How to reach me:
